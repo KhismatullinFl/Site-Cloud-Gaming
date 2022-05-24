@@ -1644,6 +1644,10 @@ body.locked {
     margin-right: 50px;
   }
 
+  .hero__section {
+    padding-top: 30px;
+  }
+
   .hero__title {
     text-align: center;
     font-size: 36px;
@@ -2021,7 +2025,6 @@ body.locked {
 
   .hero__section {
     padding-bottom: 250px;
-    padding-top: 30px;
   }
 
   .hero__picture {
